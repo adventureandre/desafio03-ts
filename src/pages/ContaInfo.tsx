@@ -1,4 +1,4 @@
-import {Box, Button, Center, Flex, SimpleGrid, Spacer, Spinner, Text, Wrap, WrapItem} from "@chakra-ui/react"
+import { Button, Center, Spinner, Text, Wrap, WrapItem} from "@chakra-ui/react"
 import {Link, useNavigate, useParams} from "react-router-dom"
 import {useEffect, useState} from "react";
 import {api} from "../api";
